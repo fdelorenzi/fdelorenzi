@@ -20,6 +20,7 @@ When not coding, I enjoy traveling, practicing fitness, and playing music or DJ-
 - ASP.NET 4 / MVC
 - .NET Core
 - Java
+- Python (Django, Flask)
 - HTML5 & CSS3
 
 ### Infrastructure & DevOps
