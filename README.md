@@ -1,7 +1,9 @@
 # Hello! 👋
 
 ## About Me 🌍
-Software Development and API Integration Expert with over 10 years of experience. I currently work as Technical Product Manager at [Onport](https://onport.com), leveraging my expertise in integrating a diverse range of third-party APIs including payments, e-commerce, shipping, ERP, healthcare, and government systems.
+Software Development and API Integration Expert with over 10 years of experience.
+
+I currently work as Technical Product Manager at [Onport](https://onport.com), leveraging my expertise in integrating a diverse range of third-party APIs including payments, e-commerce, shipping, ERP, healthcare, and government systems.
 
 ## Areas of Expertise 🛠️
 - **Technical Leadership**: Leading teams to build scalable and secure projects and SaaS products across various industries.
