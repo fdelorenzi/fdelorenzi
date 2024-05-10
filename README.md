@@ -36,10 +36,11 @@ When not coding, I enjoy traveling, practicing fitness, and playing music or DJ-
 - NoSQL
 - RabbitMQ
 - Ably
-
-### Security & Networking
 - HL7
 - Mirth
+
+### Security & Networking
+
 - DNS
 - Linux
 - Asterisk, VoIP, SIP, WebRTC
