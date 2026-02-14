@@ -7,7 +7,7 @@ CEO & Founder of [LeaderNova](https://leadernova.com), providing technical leade
 
 Previously CTO at [Onport](https://onport.com) (formerly Farfetch Group) and ran my own consultancy firm for 10 years specializing in API integrations across payments, e-commerce, shipping, ERP, healthcare, and government systems.
 
-Vice President at [PugliaTechs APS](https://pugliatechs.com), working to transform Puglia into a Global Tech Hub.
+Vice President at [PugliaTechs APS](https://pugliatechs.com), working to transform Puglia 🇮🇹 into a Global Tech Hub.
 
 ## Areas of Expertise 🛠️
 - **Technical Leadership**: Leading teams to build scalable and secure projects and SaaS products across various industries.
