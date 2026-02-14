@@ -1,9 +1,13 @@
 # Hello! 👋
 
 ## About Me 🌍
-Software Development and API Integration Expert with over 10 years of experience.
+Software Engineer and Technical Leader with over 10 years of experience building scalable systems across diverse industries.
 
-I currently work as Technical Product Manager at [Onport](https://onport.com), leveraging my expertise in integrating a diverse range of third-party APIs including payments, e-commerce, shipping, ERP, healthcare, and government systems.
+CEO & Founder of [LeaderNova](https://leadernova.com), providing technical leadership, product development, and AI automation solutions. Product Engineer at [Vinted](https://vinted.com), building high-performance marketplace platforms.
+
+Previously CTO at [Onport](https://onport.com) (formerly Farfetch Group) and ran my own consultancy firm for 10 years specializing in API integrations across payments, e-commerce, shipping, ERP, healthcare, and government systems.
+
+Vice President at [PugliaTechs APS](https://pugliatechs.org), working to transform Puglia into a Global Tech Hub.
 
 ## Areas of Expertise 🛠️
 - **Technical Leadership**: Leading teams to build scalable and secure projects and SaaS products across various industries.
@@ -22,7 +26,7 @@ When not coding, I enjoy traveling, practicing fitness, and playing music or DJ-
 - ASP.NET 4 / MVC
 - .NET Core
 - Java
-- Python (Django, Flask)
+- Python (Django, Flask, FastAPI, DRF)
 - HTML5 & CSS3
 
 ### Infrastructure & DevOps
@@ -37,6 +41,7 @@ When not coding, I enjoy traveling, practicing fitness, and playing music or DJ-
 - MicrosoftS SQL Server
 - NoSQL
 - RabbitMQ
+- Kafka
 - Ably
 - HL7
 - Mirth
