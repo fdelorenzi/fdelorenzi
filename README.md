@@ -5,7 +5,7 @@ Software Engineer and Technical Leader with over 10 years of experience building
 
 CEO & Founder of [LeaderNova](https://leadernova.com), providing technical leadership, product development, and AI automation solutions. Product Engineer at [Vinted](https://vinted.com), building high-performance marketplace platforms.
 
-Previously CTO at [Onport](https://onport.com) (formerly Farfetch Group) and ran my own consultancy firm for 10 years specializing in API integrations across payments, e-commerce, shipping, ERP, healthcare, and government systems.
+Previously CTO at [Onport](https://onport.com) (formerly part of Farfetch Group) and ran my own consultancy firm for 10 years specializing in API integrations across payments, e-commerce, shipping, ERP, healthcare, and government systems.
 
 Vice President at [PugliaTechs APS](https://pugliatechs.com), working to transform Puglia 🇮🇹 into a Global Tech Hub.
 
