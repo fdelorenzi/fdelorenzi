@@ -1,7 +1,7 @@
 # Hello! 👋
 
 ## About Me 🌍
-Software Engineer and Technical Leader with over 10 years of experience building scalable systems across diverse industries.
+Software Engineer and Technical Leader with over 15 years of experience building scalable systems across diverse industries.
 
 CEO & Founder of [LeaderNova](https://leadernova.com), providing technical leadership, product development, and AI automation solutions. Product Engineer at [Vinted](https://vinted.com), building high-performance marketplace platforms.
 
